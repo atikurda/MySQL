@@ -5,6 +5,7 @@ Creating database and conenct it, select, where clause, arithmatic operator, Pri
 	
  ![PK](https://github.com/atikurda/MySQL/assets/142215677/daf5970c-b54a-4fec-9f24-d4568941d800)
 	
+ 
  ![Foreign keys](https://github.com/atikurda/MySQL/assets/142215677/e6077438-256c-456e-95ed-13d676319b2e)
 	
  ![Queries](https://github.com/atikurda/MySQL/assets/142215677/d99ee581-c913-45b7-a8c2-cda744146ffb)
